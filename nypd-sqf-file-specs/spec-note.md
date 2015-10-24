@@ -1,4 +1,4 @@
-I put the spec files in here.
+I put the spec files in this folder.
 
 data available via from
 
