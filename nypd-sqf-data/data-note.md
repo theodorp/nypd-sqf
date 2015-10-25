@@ -1,4 +1,4 @@
-data files would go in here.
+data files would go in this folder.
 
 data available via from
 
