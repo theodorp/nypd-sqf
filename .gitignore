@@ -2,3 +2,5 @@ nypd-sqf-data
 nypd-sqf-file-specs
 *.xlsx
 .Rproj.user
+.Rhistory
+.ipynb_checkpoints
