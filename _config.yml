@@ -7,4 +7,7 @@ description: Data Visualization of NYPD Search, Question, Frisk data
 markdown: kramdown
 highlighter: pygments
 
+# Base url
+baseurl: /nypd-sqf
+
 exclude: ["README.md"]
