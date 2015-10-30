@@ -7,6 +7,8 @@ Future home of the results from my data visualization project on the stop/frisk/
 
 in the mean time, here is me looking serious wearing a monkey hat.
 
-![monkey]({{ site.baseurl }}/img/monkey.jpeg)
+[linke]({{ site.baseurl }})
+
+![monkey]({{ site.baseurl }}/nypd-sqf/img/monkey.jpeg)
 
 <!-- <img src="{{ site.baseurl }}/img/monkey.jpeg" /> -->
